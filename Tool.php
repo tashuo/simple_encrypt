@@ -26,4 +26,3 @@ class Tool
 		return $origin;
 	}
 }
-
